@@ -1,0 +1,6 @@
+go down the src folder to see the templates files. 
+These are where the custom code is intended to be written 
+to make the bot do stuff.
+
+If you are unfamiliar with wpiLIB and FRC robot code, visit 
+the FIRST site.There is great documentation there.
